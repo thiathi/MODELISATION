@@ -1,0 +1,3 @@
+function l_AQj(a){if(0===a.length)return 0;const b=a.reduce((c,d)=>c+d,0)/a.length;a=a.map(c=>Math.pow(c-b,2)).reduce((c,d)=>c+d,0)/a.length;return Math.sqrt(a)}
+function l_BQj(a){const b=new Map;if(0===a.items.size)return a.mb.value.fields.filter(c=>-1===a.mb.value.primaryKey.indexOf(c.name)).map(c=>c.name);a.mb.value.fields.forEach(c=>{if(-1===a.mb.value.primaryKey.indexOf(c.name)){var d=[...l_2i(a.items.values(),f=>l__v(f.get(c.name))).values()].map(f=>f.filter(g=>""!==l__v(g.get(c.name))).length);if(0!==d.length){var e=d.reduce((f,g)=>f+g,0)/d.length;d=l_AQj(d);0!==d&&b.set(c.name,e/d)}}});return[...b].sort(([,c],[,d])=>d-c).map(([c])=>c)};
+//# sourceURL=/js/application/chart_app/chunk/gen_40100.js?compiled=1

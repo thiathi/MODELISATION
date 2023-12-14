@@ -1,0 +1,2 @@
+var l_Jri=class extends l_$w{filter(a){a&&-1<a.indexOf("::")&&(a="http://"+a.substr(a.indexOf("::")+2));return a}};const l_Kri=new l_h("ThumbURL"),l_Lri=new l_h("URL");var l_Mri=class extends l_5K{constructor(a){super(a,null,[]);this.HEd=new l_Jri(l_Kri,"",this.internal.$a);this.url=new l_$w(l_Lri,"",this.internal.$a);this.nue.setValue(0)}xb(){return l_0d(super.xb(),["dockOnAnotherBlock"])}kla(){return!1}bpb(){return!0}};
+//# sourceURL=/js/application/chart_app/chunk/gen_4000000000000000070800.js?compiled=1

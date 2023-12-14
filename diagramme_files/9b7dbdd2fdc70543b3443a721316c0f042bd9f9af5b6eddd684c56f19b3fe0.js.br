@@ -1,0 +1,1 @@
+i18n.setData(JSON.parse("{\"spark-container-block-name\":\"Conteneur\"}"),'fr-FR');

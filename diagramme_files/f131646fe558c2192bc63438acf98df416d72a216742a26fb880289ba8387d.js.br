@@ -1,0 +1,1 @@
+i18n.setData(JSON.parse("{\"advanced-options-swimlane-columns\":\"Colonnes\",\"advanced-options-swimlane-rows\":\"Lignes\",\"plugin-uml-option-line-reverse\":\"Inverser la direction de la ligne\",\"plugin-uml-option-multiplicity\":\"Ajouter des multiplicités\"}"),'fr-FR');

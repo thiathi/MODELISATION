@@ -1,0 +1,1 @@
+i18n.setData(JSON.parse("{\"plugin-press-table-name\":\"Tableau\",\"plugin-table-shape-name-banded-cols\":\"Colonnes à bandes\",\"plugin-table-shape-name-banded-rows\":\"Lignes à bandes\",\"plugin-table-shape-name-table-with-header\":\"Tableau avec en-tête\"}"),'fr-FR');

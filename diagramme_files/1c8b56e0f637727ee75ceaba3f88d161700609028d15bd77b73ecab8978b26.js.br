@@ -1,0 +1,1 @@
+i18n.setData(JSON.parse("{\"plugin-default-block-placeholder\":\"Saisissez du texte\"}"),'fr-FR');

@@ -1,0 +1,1 @@
+i18n.setData(JSON.parse("{\"flex-polygon-number-of-sides\":\"Côtés\",\"flex-polygon-spinner-unlock-warning\":\"La modification du nombre de côtés annulera toutes les modifications personnalisées.\"}"),'fr-FR');

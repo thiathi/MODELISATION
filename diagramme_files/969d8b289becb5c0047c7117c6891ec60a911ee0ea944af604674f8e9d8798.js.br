@@ -1,0 +1,2 @@
+var l_L_=class extends l_5K{isType(a){return"shape"===a}xb(){return l_0d(super.xb(),["ShapeStyles"])}};
+//# sourceURL=/js/application/chart_app/chunk/gen_600010000060000002c04000080000082400.js?compiled=1

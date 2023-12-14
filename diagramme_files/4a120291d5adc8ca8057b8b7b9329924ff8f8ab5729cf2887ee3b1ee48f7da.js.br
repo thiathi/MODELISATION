@@ -1,0 +1,2 @@
+var l_Ori=class extends l_ff{constructor(a,b){super(l_Nri);this.id=a;this.result=b}},l_Nri=new l_xc("Be");
+//# sourceURL=/js/application/chart_app/chunk/gen_3800000000000000000800000000000000000000000000000000000.js?compiled=1

@@ -1,0 +1,3 @@
+var l_dri,l_eri=l_dri=class{constructor(a){this.name="alteredAdvancedShapeProperty";this.zf=a.zf;this.className=a.className;this.documentId=a.documentId;this.Bm=a.Bm;this.la=a.la;this.jSc=a.jSc;this.kSc=a.kSc;this.userId=a.userId}toJSON(){return l_dri.Bb(this)}};
+l_eri=l_dri=__decorate([l_vi({userId:["userId",l_ri],la:["shapeName",l_k],Bm:["shapeLibraryName",l_k],documentId:["documentId",l_k],jSc:["updatedProperty",l_k],kSc:["updatedValue",l_k],className:["className",l_k],zf:["blockId",l_k],name:["name",l_oi("alteredAdvancedShapeProperty")]}),__metadata("design:paramtypes",[Object])],l_eri);
+//# sourceURL=/js/application/chart_app/chunk/gen_2000001000801000000000000100000000.js?compiled=1
